@@ -1,6 +1,6 @@
 # Unix-Shell in C
 
-###### Functionalities Implemented:
+#### Functionalities Implemented:
 
 -> External and Internal commands (ls, clear, vim, cd, pwd, exit, mkdir)
 
@@ -13,7 +13,7 @@
      SIGTSTP has been handled (Ctrl-Z). It takes a foreground process, and runs it in the background.
 
 
-###### To run the shell:
+#### To run the shell:
 
 -> gcc shell.c
 
